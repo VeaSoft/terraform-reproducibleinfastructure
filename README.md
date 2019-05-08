@@ -1,4 +1,4 @@
-# terraform-reproducibleinfastructure
+# terraform-series
 Codebase containing the various files for the Terraform Series on medium
 
 Medium series here: 
